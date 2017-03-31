@@ -3,12 +3,12 @@
 
 At 500x500 px resolution (above is 1000x1000)
 
-| Grid Dimensions   | CPU time (s) |
-|-------------------|--------------|
-| 15x15x15          | 1845         |
-| 22x22x22          | 942          |  
-| 26x26x26          | 721          |  
-| 30x30x30          | 577          |
+| Grid Dimensions     | CPU time (s) |
+|-------------------  |--------------|
+| 15x15x15            | 1845         |
+| 22x22x22            | 942          |  
+| 26x26x26            | 721          |  
+| 30x30x30            | 577          |
 
 ### Objective 2 - Texture mapping
 ![Texture Mapping]({{ site.url }}/images/Objective2.png)
@@ -49,13 +49,13 @@ At 500x500 px resolution (above is 1000x1000)
 ### Extra - Multithreading
 Rendering the Image in Objective 1 at 300x300 px
 
-| # Threads   | CPU time (s) | Real time (s)  |
-|-------------|--------------|----------------|
-| 1           | 279          | 280            |
-| 2           | 280          | 145            |  
-| 3           | 284          | 97             |
-| 4           | 283          | 96             |
-| 5           | 284          | 95             |
-| 6           | 285          | 96             |
-| 7           | 285          | 96             |   
-| 8           | 284          | 96             |
+| # Threads     | CPU time (s)  | Real time (s)  |
+|-------------  |-------------- |----------------|
+| 1             | 279           | 280            |
+| 2             | 280           | 145            |  
+| 3             | 284           | 97             |
+| 4             | 283           | 96             |
+| 5             | 284           | 95             |
+| 6             | 285           | 96             |
+| 7             | 285           | 96             |   
+| 8             | 284           | 96             |
