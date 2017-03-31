@@ -1,6 +1,6 @@
 # Ray Tracer Demo
 ### Objective 1 - Grid based acceleration
-some text
+
 
 ### Objective 2 - Texture mapping
 
@@ -19,3 +19,4 @@ some text
 ### Objective 9 - Antialiasing
 
 ### Objective 10 - Final Scene
+![Final Scene]({{ site.url }}/images/Objective10b.png)
