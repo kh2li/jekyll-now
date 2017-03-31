@@ -42,9 +42,9 @@ At 500x500 px resolution (above is 1000x1000)
 ![Final Scene]({{ site.url }}/images/ObjectiveExtraPhongShading.png)
 
 ### Extra - Photon Mapping
-![Final Scene]({{ site.url }}/images/ObjectiveExtraPhongShading1.png)
-![Final Scene]({{ site.url }}/images/ObjectiveExtraPhongShading2.png)
-![Final Scene]({{ site.url }}/images/ObjectiveExtraPhongShadingC.png)
+![Final Scene]({{ site.url }}/images/ObjectiveExtraPhotonMapping1.png)
+![Final Scene]({{ site.url }}/images/ObjectiveExtraPhotonMapping2.png)
+![Final Scene]({{ site.url }}/images/ObjectiveExtraPhotonMappingC.png)
 
 ### Extra - Multithreading
 Rendering the Image in Objective 1 at 300x300 px
