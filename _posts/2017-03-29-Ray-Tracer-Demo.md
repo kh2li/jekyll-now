@@ -2,6 +2,7 @@
 ![Grid Acceleration]({{ site.url }}/images/Objective1Scene.png)
 
 At 500x500 px resolution (above is 1000x1000)
+
 | Grid Dimensions   | CPU time (s) |
 |-------------------|--------------|
 | 15x15x15          | 1845         |
@@ -47,6 +48,7 @@ At 500x500 px resolution (above is 1000x1000)
 
 ### Extra - Multithreading
 Rendering the Image in Objective 1 at 300x300 px
+
 | # Threads   | CPU time (s) | Real time (s)  |
 |-------------|--------------|----------------|
 | 1           | 279          | 280            |
