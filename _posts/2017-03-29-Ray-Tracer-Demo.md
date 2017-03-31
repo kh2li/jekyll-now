@@ -53,6 +53,7 @@ A 2x2 grid is used to calculate the colors first and if the colors are not all w
 ![Antialiasing]({{ site.url }}/images/Objective9.png)
 
 ### Objective 10 - Final Scene
+Total time to render: 112 308 seconds (CPU time), 25 378 seconds (Real time). Roughly 7 hours.
 
 ![Final Scene]({{ site.url }}/images/Objective10b.png)
 
